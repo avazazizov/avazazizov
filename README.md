@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avazazizov&label=Profile%20views&color=0e75b6&style=flat" alt="avazazizov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avazazizov" alt="avazazizov" /></a> </p>
-
 - 🔭 I’m currently working on **Applying ML models to real-world datasets**
 
 - 🌱 I’m currently learning **Deep Learning and Neural Networks**
