@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avaz Azizov</h1>
 <h3 align="center">AI & Data Science Learner | Python Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avazazizov&label=Profile%20views&color=0e75b6&style=flat" alt="avazazizov" /> </p>
-
 - 🔭 I’m currently working on **Applying ML models to real-world datasets**
 
 - 🌱 I’m currently learning **Deep Learning and Neural Networks**
@@ -29,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avazazizov&show_icons=true&locale=en" alt="avazazizov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avazazizov&" alt="avazazizov" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avazazizov&label=Profile%20views&color=0e75b6&style=flat" alt="avazazizov" /> </p>
