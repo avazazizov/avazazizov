@@ -88,7 +88,7 @@ class AvazAzizov:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avazazizov&theme=transparent&background=020b18&ring=0066ff&fire=4a9eff&currStreakNum=c9d4e8&sideNums=c9d4e8&currStreakLabel=4a9eff&sideLabels=607090&dates=607090&border=0d2a5e" height="155"/>
+<img src="https://streak-stats.demolab.com?user=avazazizov&theme=transparent&background=020b18&ring=0066ff&fire=4a9eff&currStreakNum=c9d4e8&sideNums=c9d4e8&currStreakLabel=4a9eff&sideLabels=607090&dates=607090&border=0d2a5e" height="155"/>
 
 </div>
 
