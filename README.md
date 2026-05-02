@@ -12,8 +12,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4A9EFF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Learner;Python+Developer;ML+%7C+Deep+Learning+%7C+Data+Analysis;Always+learning+new+things...)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-avazazizov.github.io-0066ff?style=for-the-badge&labelColor=020b18)](https://avazazizov.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020b18)](https://linkedin.com/in/avaz-azizov)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20beff?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=020b18)](https://kaggle.com/avaz-azizov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020b18)](https://www.linkedin.com/in/avaz-azizov-b1a0993a3/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20beff?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=020b18)](https://www.kaggle.com/vzzizov)
 [![Email](https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020b18)](mailto:ezizovevez.ai@gmail.com)
 
 </div>
