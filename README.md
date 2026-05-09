@@ -20,11 +20,7 @@
 
 ---
 
-<div align="center">
-
-## `$ cat about.py`
-
-</div>
+## `$ about`
 
 ```python
 class AvazAzizov:
@@ -41,7 +37,7 @@ class AvazAzizov:
 
 ---
 
-## `$ cat skills.json`
+## `$ skills`
 
 **Languages**
 
