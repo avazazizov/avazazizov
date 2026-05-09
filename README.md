@@ -20,7 +20,7 @@
 
 ---
 
-## `$ about`
+## `$ about me`
 
 ```python
 class AvazAzizov:
